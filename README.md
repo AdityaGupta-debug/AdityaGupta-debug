@@ -14,11 +14,11 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="Developer Fun"/>
 </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
-- 🌱 Learning **ML, AI, and Data Science** day by day
-- 🤝 Open to **collaborating on Hackathons & AI Projects**
+- 🔭 I’m currently working on **Learning Various MAchine Learning Algorithms**
+- 🌱 Learning **AI and ML** day by day
+- 🤝 Open to **collaborating ML discussion and AI**
 - 💻 All my projects are here: [**GitHub**](https://github.com/AdityaGupta-debug?tab=repositories)
-- 💬 Ask me about: **Python, ML, Git & Open Source**
+- 💬 Ask me about: **Python, AI, ML, DS**
 - ⚡ Fun fact:  
   *My GitHub sees more training loops than I do squats — and both still overfit! 😂*
 
