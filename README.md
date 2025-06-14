@@ -14,8 +14,7 @@
 - 🌱 I’m currently learning **Machine Learning & Data Science**  
 - 👯 I’m looking to collaborate on **ML/AI Projects & Hackathons**  
 - 👨‍💻 All my work is available at: [My GitHub](https://github.com/AdityaGupta-debug?tab=repositories)  
-- 💬 Ask me about: **Machine Learning, Python, and Git**  
-- 📫 Reach me at: **adpubu@gmail.com**  
+- 💬 Ask me about: **Machine Learning, Python, and Git**    
 - ⚡ Fun fact: **My GitHub has seen more training loops than my brain during exam season — and both still overfit on irrelevant stuff! 😂**
 
 ---
