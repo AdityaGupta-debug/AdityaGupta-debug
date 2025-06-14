@@ -11,7 +11,7 @@
 <h2 align="center">🚀 About Me</h2>  
 
 <p align="center">   
-  <img src="https://media.giphy.com/media/2zZ2FZ6oXQic1wHdGe/giphy.gif" width="300" alt="Machine Learning GIF"/> 
+  <img src="https://media.giphy.com/media/xUOwGcvS1k5DyzlDJm/giphy.gif" width="300" alt="Snake Game Progress" /> 
 </p>  
 
 - 🔭 I’m currently working on **Machine Learning Projects**  
