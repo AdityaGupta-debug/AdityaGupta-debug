@@ -20,17 +20,6 @@
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://twitter.com/thisisadi_" target="blank"><img src="https://img.shields.io/twitter/follow/thisisadi_?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/aditya-upendra-gupta" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://instagram.com/_adityagupta29" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/scarface29" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&style=for-the-badge&logoColor=yellow" /></a>
-</p>
-
----
-
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
