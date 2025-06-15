@@ -1,64 +1,85 @@
+<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gupta!;AI+%26+ML+Enthusiast+from+India;Let%E2%80%99s+build+something+cool+together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Aditya+Gupta!;AI+%26+ML+Explorer+from+India.;Building+cool+stuff+with+data+and+code!" />
 </p>
 
+<!-- Main Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding Animation" />
 </p>
 
----
-
-<h2 align="center">🚀 About Me</h2>
-
+<!-- Social Badges -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="Developer Fun"/>
-</p>
-
-- 🔭 I’m currently working on **Learning Various MAchine Learning Algorithms**
-- 🌱 Learning **AI and ML** day by day
-- 🤝 Open to **collaborating ML discussion and AI**
-- 💻 All my projects are here: [**GitHub**](https://github.com/AdityaGupta-debug?tab=repositories)
-- 💬 Ask me about: **Python, AI, ML, DS**
-- ⚡ Fun fact:  
-  *My GitHub sees more training loops than I do squats — and both still overfit! 😂*
-
----
-
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/yourusername/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://kaggle.com/yourusername/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 🧠 About Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta-debug&layout=compact&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Developer Fun"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta-debug&theme=tokyonight" />
-</p>
+- 🔭 Currently diving deep into **Machine Learning & AI**
+- 📚 Constant learner of **Data Science, Python & Deep Learning**
+- 🤝 Always up for **collaborations or brainy chats on ML/AI**
+- 📂 All my projects live here → [**GitHub Repos**](https://github.com/AdityaGupta-debug?tab=repositories)
+- 💬 Ask me about: **Python · ML · AI · Data Science**
+- ⚡ **Fun fact**:  
+  *My models overfit faster than I can finish my coffee ☕😂*
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityagupta-debug&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" title="Seaborn"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" title="SQLite"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
 </p>
 
 ---
 
-
-
-
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adityagupta-debug&theme=onestar&no-frame=true&column=7"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta-debug&layout=compact&theme=onedark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta-debug&theme=onedark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityagupta-debug&label=Profile%20Views&color=ff69b4&style=flat-square" />
+</p>
+
+---
+
+## ✨ Just Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280" />
 </p>
