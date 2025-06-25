@@ -11,8 +11,9 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="Developer Fun"/>
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZy/giphy.gif" width="250" alt="Machine Learning Vibes"/>
 </p>
+
 
 - 🔭 I’m currently working on **Learning Various MAchine Learning Algorithms**
 - 🌱 Learning **AI and ML** day by day
