@@ -11,8 +11,9 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UqZ2vhi8pF0V3ZQy9z/giphy.gif" width="250" alt="ML Animation"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Futuristic AI GIF" />
 </p>
+
 
 
 
