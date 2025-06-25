@@ -17,7 +17,7 @@
 </p>
 
 - 🎯 Passionate about **Machine Learning**, **Artificial Intelligence**, and **Problem Solving**
-- 🔍 Currently exploring: Deep Learning, Transformers, and Real-World AI Applications
+- 🔍 Currently exploring: Machine Learning and DSA
 - 💬 Always up for a chat about **Python**, **ML models**, or **Data Science**
 - 👨‍💻 All projects live here: [**GitHub Portfolio**](https://github.com/AdityaGupta-debug?tab=repositories)
 - ⚡ Fun Fact:  
