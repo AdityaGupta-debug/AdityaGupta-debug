@@ -11,7 +11,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="ML Developer"/>
+  <img src="https://media.giphy.com/media/UqZ2vhi8pF0V3ZQy9z/giphy.gif" width="250" alt="ML Animation"/>
 </p>
 
 
