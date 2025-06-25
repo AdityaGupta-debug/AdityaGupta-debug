@@ -63,7 +63,8 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250" alt="Keep Coding!" />
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="250" alt="Python Logo Animation" />
 </p>
+
 
 <p align="center"><b>Thanks for stopping by! Let’s connect & create something amazing 🚀</b></p>
