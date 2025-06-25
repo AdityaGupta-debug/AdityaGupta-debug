@@ -60,11 +60,10 @@
 
 ---
 
-
-
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.gif" width="250" alt="GitHub Octocat Walking" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="GitHub Octocat Animation" />
 </p>
+
 
 
 <p align="center"><b>Thanks for stopping by! Let’s connect & create something amazing 🚀</b></p>
