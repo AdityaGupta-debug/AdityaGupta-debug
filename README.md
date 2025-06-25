@@ -63,7 +63,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="250" alt="Python Logo Animation" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.gif" width="250" alt="GitHub Octocat Walking" />
 </p>
 
 
