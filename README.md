@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA0MGR2bWZ1eGwwdmk0Y3FyMTh0eG4yYzdmb3ljbm9raWRhMW4yNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="480" alt="Cool Coding Animation" />
 </p>
 
 ---
