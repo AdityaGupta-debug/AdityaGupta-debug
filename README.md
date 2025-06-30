@@ -16,12 +16,13 @@
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="220" alt="AI Visualization"/>
 </p>
 
-- 🎯 Passionate about **Machine Learning**, **Artificial Intelligence**, and **Problem Solving**
-- 🔍 Currently exploring: Machine Learning and DSA
-- 💬 Always up for a chat about **Python**, **ML models**, or **Data Science**
-- 👨‍💻 All projects live here: [**GitHub Portfolio**](https://github.com/AdityaGupta-debug?tab=repositories)
+- 🎯 Passionate about **Artificial Intelligence** and **Machine Learning**  
+- 🔍 Currently Learning: Machine Learning and DSA  
+- 💬 Always up for a chat about **Machine Learning** and **Data Science**  
+- 👨‍💻 All projects live here: [**GitHub Portfolio**](https://github.com/AdityaGupta-debug?tab=repositories)  
 - ⚡ Fun Fact:  
-  *My loss function converges faster than my morning routine! 😄*
+  > *"Instead of trying to produce a program to simulate the adult mind, why not rather try to produce one which simulates the child’s?"*  
+  > — *Alan Turing*
 
 ---
 
@@ -39,7 +40,6 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
 </p>
-
 
 ---
 
@@ -66,7 +66,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="GitHub Octocat Animation" />
 </p>
-
-
 
 <p align="center"><b>Thanks for stopping by! Let’s connect & create something amazing 🚀</b></p>
