@@ -61,7 +61,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta-debug&theme=radical&ring=DD2727&fire=FF7F50&currStreakLabel=DD2727&sideLabels=FFFAFA" />
+  <img src="https://streak-stats.demolab.com?user=adityagupta-debug&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=adityagupta-debug&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta-debug&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
