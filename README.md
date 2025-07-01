@@ -60,13 +60,16 @@
 
 ## 🔥 GitHub Streak
 
+## 🔥 GitHub Streak
+
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=adityagupta-debug&theme=tokyonight_duo&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=daily&currStreakNum=00CED1&sideLabels=FFFFFF&fire=FF6B6B&ring=FF6B6B"
+    src="https://github-readme-streak-stats.herokuapp.com?user=adityagupta-debug&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"
     alt="GitHub Streak"
     width="600"
 />
 </p>
+
 
 ---
 
