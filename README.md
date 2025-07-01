@@ -41,6 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" />
 </p>
 
 
