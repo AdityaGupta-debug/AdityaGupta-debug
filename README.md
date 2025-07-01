@@ -48,13 +48,20 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityagupta-debug&show_icons=true&theme=tokyonight&hide_title=true" />
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=adityagupta-debug&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta-debug&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
