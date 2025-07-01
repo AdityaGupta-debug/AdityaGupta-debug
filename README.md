@@ -58,23 +58,7 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=adityagupta-debug&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"
-    alt="GitHub Streak"
-    width="600"
-/>
-</p>
-
----
-
-## 🧩 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta-debug&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ---
 
