@@ -1,6 +1,6 @@
 <!-- Banner Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gupta!;ML+%7C+AI+%7C+Data+Science+Enthusiast;Building+cool+things+with+code+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gupta!;AI+%7C+ML+%7C+Data+Science+Enthusiast;Building+cool+things+with+code+%F0%9F%92%BB" />
 </p>
 
 <!-- Main Hero Animation -->
