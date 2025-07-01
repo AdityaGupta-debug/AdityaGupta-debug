@@ -58,14 +58,8 @@
   <img src="https://streak-stats.demolab.com?user=adityagupta-debug&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
-
 ---
 
-
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="GitHub Octocat Animation" />
