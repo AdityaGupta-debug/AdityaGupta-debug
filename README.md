@@ -44,8 +44,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" />
 </p>
 
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -55,15 +53,23 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta-debug&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta-debug&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityagupta-debug&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta-debug&theme=radical&ring=DD2727&fire=FF7F50&currStreakLabel=DD2727&sideLabels=FFFAFA" />
+</p>
+
+---
+
+## 🧩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=adityagupta-debug&theme=tokyo-night" />
 </p>
 
 ---
