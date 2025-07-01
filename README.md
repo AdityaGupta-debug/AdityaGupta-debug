@@ -62,19 +62,13 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=adityagupta-debug&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FF4500&currStreakNum=FFD700&sideLabels=F8F8F2&currStreakLabel=FF4500&border=DD2727"
+    src="https://streak-stats.demolab.com?user=adityagupta-debug&theme=tokyonight_duo&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=daily&currStreakNum=00CED1&sideLabels=FFFFFF&fire=FF6B6B&ring=FF6B6B"
     alt="GitHub Streak"
     width="600"
 />
 </p>
 
 ---
-
-## 🧩 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta-debug&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ---
 
