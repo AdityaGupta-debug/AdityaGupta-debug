@@ -64,8 +64,8 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta-debug&theme=tokyonight&hide_border=false&stroke=FFFFFF&ring=F85C50&fire=F85C50&currStreakLabel=F85C50&currStreakNum=FACC15"
-    alt="Aditya's GitHub Streak"
+    src="https://streak-stats.demolab.com?user=adityagupta-debug&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
     width="600"
 />
 </p>
