@@ -16,14 +16,17 @@
  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="220" alt="AI Visualization"/>
 </p>
 
-- 🎯 Passionate about **Artificial Intelligence** and **Machine Learning**  
-- 🔍 Currently Learning: Machine Learning and DSA  
-- 💬 Always up for a chat about **Machine Learning** and **Data Science**  
-- 👨‍💻 All projects live here: [**GitHub Portfolio**](https://github.com/AdityaGupta-debug?tab=repositories)  
-- ⚡ Fun Fact:  
-  > *"Instead of trying to produce a program to simulate the adult mind, why not rather try to produce one which simulates the child's?"*  
-  > — *Alan Turing*
+<div align="center">
 
+### 🎯 Passionate about **Artificial Intelligence** and **Machine Learning**  
+### 🔍 Currently Learning: Machine Learning and DSA  
+### 💬 Always up for a chat about **Machine Learning** and **Data Science**  
+### 👨‍💻 All projects live here: [**GitHub Portfolio**](https://github.com/AdityaGupta-debug?tab=repositories)  
+### ⚡ Fun Fact:  
+> *"Instead of trying to produce a program to simulate the adult mind, why not rather try to produce one which simulates the child's?"*  
+> — *Alan Turing*
+
+</div>
 
 ---
 
