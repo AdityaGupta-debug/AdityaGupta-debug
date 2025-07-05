@@ -50,6 +50,8 @@
 
 
 
+#---
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -61,6 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta-debug&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&border_radius=10" width="35%" alt="Top Languages"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta-debug&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FF6B6B&area=true&hide_border=true&radius=10" width="60%" alt="Activity Graph"/>
 </div>
+
 ---
 
 
