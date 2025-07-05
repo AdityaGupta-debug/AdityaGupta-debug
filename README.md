@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="220" alt="Waving Hand"/>
+ <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="220" alt="AI Visualization"/>
 </p>
 
 - 🎯 Passionate about **Artificial Intelligence** and **Machine Learning**  
