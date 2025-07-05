@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="Digital Terminal"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="220" alt="Waving Hand"/>
 </p>
 
 - 🎯 Passionate about **Artificial Intelligence** and **Machine Learning**  
