@@ -1,7 +1,7 @@
-<!-- Banner Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gupta!;AI+%7C+ML+%7C+Data+Science+Enthusiast;Building+cool+things+with+code+%F0%9F%92%BB" />
-</p>
+<!-- Static Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Gupta&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20/%20ML%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
 <!-- Main Hero Animation -->
 <div align="center">
@@ -21,7 +21,7 @@
 - 💬 Always up for a chat about **Machine Learning** and **Data Science**  
 - 👨‍💻 All projects live here: [**GitHub Portfolio**](https://github.com/AdityaGupta-debug?tab=repositories)  
 - ⚡ Fun Fact:  
-  > *"Instead of trying to produce a program to simulate the adult mind, why not rather try to produce one which simulates the child’s?"*  
+  > *"Instead of trying to produce a program to simulate the adult mind, why not rather try to produce one which simulates the child's?"*  
   > — *Alan Turing*
 
 
@@ -47,10 +47,6 @@
 
 ---
 
-
-
-
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -64,7 +60,6 @@
 </div>
 
 ---
-
 
 ## 🔮 What's Next?
 
@@ -81,8 +76,6 @@ class FuturePlans:
     def execute(self):
         return "Turning dreams into reality, one algorithm at a time! 💫"
 ```
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Let's%20build%20the%20future%20together%20%F0%9F%9A%80&descAlignY=80&descSize=16" width="100%"/>
