@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="220" alt="AI Visualization"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Matrix Code Rain"/>
 </p>
 
 
