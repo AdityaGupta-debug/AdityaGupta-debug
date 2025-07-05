@@ -67,8 +67,30 @@
 ---
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="GitHub Octocat Animation" />
-</p>
+## 🔮 What's Next?
 
-<p align="center"><b>Thanks for stopping by! Let’s connect & create something amazing 🚀</b></p>
+<div align="center">
+
+```python
+class FuturePlans:
+    def __init__(self):
+        self.goals = [
+            "🚀 Launch groundbreaking AI applications",
+            "🌍 Contribute to open-source ML libraries",
+            "📚 Publish research papers in AI conferences",
+            "🎯 Build AI solutions that impact millions"
+        ]
+    
+    def execute(self):
+        return "Turning dreams into reality, one algorithm at a time! 💫"
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Let's%20build%20the%20future%20together%20%F0%9F%9A%80&descAlignY=80&descSize=16" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityagupta-debug&color=00D8FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
