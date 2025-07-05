@@ -70,19 +70,18 @@
 
 <div align="center">
 
-```python
 class FuturePlans:
     def __init__(self):
         self.goals = [
-            "🚀 Launch groundbreaking AI applications",
-            "🌍 Contribute to open-source ML libraries",
-            "📚 Publish research papers in AI conferences",
-            "🎯 Build AI solutions that impact millions"
+            "Build practical AI applications",
+            "Contribute to open-source ML projects",
+            "Gain experience with various ML models",
+            "Create AI solutions with real-world impact"
         ]
-    
+
     def execute(self):
-        return "Turning dreams into reality, one algorithm at a time! 💫"
-```
+        return "Working steadily towards meaningful AI goals."
+
 
 </div>
 
