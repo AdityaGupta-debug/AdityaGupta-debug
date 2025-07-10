@@ -20,9 +20,11 @@
 - **🔍 Currently Learning: Machine Learning and DSA**  
 - **💬 Always up for a chat about Machine Learning and Data Science**  
 - **👨‍💻 All projects live here:** [**GitHub Portfolio**](https://github.com/AdityaGupta-debug?tab=repositories)  
+- **🏓 When I'm not coding:** You'll find me smashing ping pong balls or binge-watching sci-fi movies  
+- **🎮 Other interests:** Gaming, exploring new tech, and probably debugging someone else's code  
 - **⚡ Fun Fact:**  
-  > *"Instead of trying to produce a program to simulate the adult mind, why not rather try to produce one which simulates the child's?"*  
-  > — *Alan Turing*
+  > *"The best way to learn machine learning is to break things and fix them... repeatedly!"*  
+  > — *Every ML Engineer Ever*
 
 ---
 
@@ -49,14 +51,26 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityagupta-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=ffffff&border_radius=10" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityagupta-debug&theme=radical&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=FF6B6B&currStreakLabel=00D8FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&border_radius=10" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=ffffff&border_radius=10&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaGupta-debug&theme=radical&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=FF6B6B&currStreakLabel=00D8FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&border_radius=10" width="48%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta-debug&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&border_radius=10" width="35%" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta-debug&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FF6B6B&area=true&hide_border=true&radius=10" width="60%" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta-debug&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&border_radius=10&cache_seconds=86400" width="35%" alt="Top Languages"/>
 </div>
+
+<!-- Alternative Activity Graph (if the above doesn't work) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGupta-debug&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FF6B6B&area=true&hide_border=true&radius=10" width="90%" alt="Activity Graph"/>
+</div>
+
+<!-- Backup Stats Options (uncomment if needed) -->
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta-debug&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaGupta-debug&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+</div>
+-->
 
 ---
 
@@ -66,14 +80,14 @@
 class FuturePlans:
     def __init__(self):
         self.goals = [
-            "🚀 Launch groundbreaking AI applications",
-            "🌍 Contribute to open-source ML libraries",
-            "📚 Publish research papers in AI conferences",
-            "🎯 Build AI solutions that impact millions"
+            "🤖 Build cool ML models and experiment with new algorithms",
+            "🔧 Contribute to open-source projects and learn from the community",
+            "📊 Create practical data science projects that solve real problems",
+            "💡 Share knowledge through blogs and help fellow developers"
         ]
     
     def execute(self):
-        return "Turning dreams into reality, one algorithm at a time! 💫"
+        return "Learning, building, and coding my way to awesome projects! 🚀"
 ```
 
 <div align="center">
@@ -81,5 +95,5 @@ class FuturePlans:
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityagupta-debug&color=00D8FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AdityaGupta-debug&color=00D8FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
