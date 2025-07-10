@@ -1,6 +1,6 @@
 <!-- Static Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Aditya%20Gupta&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=🤖%20AI%20Enthusiast%20|%20🧠%20ML%20Explorer%20|%20🚀%20Code%20Crafter&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Aditya%20Gupta&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI/ML%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 <!-- Main Hero Animation -->
