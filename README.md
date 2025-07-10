@@ -1,11 +1,11 @@
 <!-- Static Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Aditya%20Gupta&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI/ML%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aditya%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <!-- Main Hero Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="AI Brain Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650" alt="AI Brain Animation"/>
 </div>
 
 ---
