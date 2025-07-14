@@ -63,13 +63,6 @@
   
 <div align="center">
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta-debug&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&border_radius=10&cache_seconds=86400" 
-    width="35%" 
-    alt="Top Languages"
-  />
-
 </div>
 
 
