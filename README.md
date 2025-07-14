@@ -50,14 +50,26 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=ffffff&border_radius=10&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaGupta-debug&theme=radical&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=FF6B6B&currStreakLabel=00D8FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&border_radius=10&hide_longest_streak=true&hide_current_streak=true" width="48%" alt="GitHub Streak"/>
-</div>
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta-debug&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&border_radius=10&cache_seconds=86400" width="35%" alt="Top Languages"/>
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AdityaGupta-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=ffffff&border_radius=10&cache_seconds=86400" 
+    width="48%" 
+    alt="GitHub Stats"
+  />
+  
+<div align="center">
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta-debug&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&border_radius=10&cache_seconds=86400" 
+    width="35%" 
+    alt="Top Languages"
+  />
+
 </div>
 
 
