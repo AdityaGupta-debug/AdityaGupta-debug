@@ -17,11 +17,13 @@
 
 ## ⚡ About Me
 
-- 🎓 **B.Tech, Artificial Intelligence and Data Science** @ IIIT Raichur (2024–2028)
-- 🧠 **Deep Learning Head** @ **DeepLabs**, IIIT Raichur's official AI/ML club — designing curriculum, running bootcamps, mentoring 50+ students on ML mechanics, backprop pipelines & transformer internals
-- 🔬 Obsessed with **low-level deep learning** — Transformers, ResNets, GANs, built from scratch in raw PyTorch, no shortcuts
-- 🚀 Hunting for **AI Engineering internships** at product-focused companies
-- 🏆 **1st Place, AIXPO Summit** — ranked #1 of 20+ teams for architecture, engineering execution & performance
+* 🎓 **B.Tech, Artificial Intelligence and Data Science** @ IIIT Raichur (2024–2028)
+* 💻 Passionate about **AI Engineering, Machine Learning, and Deep Learning**
+* 🤖 Building projects with **LLMs, RAG, AI Agents, and Computer Vision**
+* 🛠️ Skilled in **Python, PyTorch, FastAPI, LangChain, Docker, and Vector Databases**
+* 🚀 Seeking **AI Engineering internships** to gain hands-on industry experience
+* 🏆 **1st Place, AIXPO Summit** — ranked #1 among 20+ participating teams
+
 
 <br/>
 
