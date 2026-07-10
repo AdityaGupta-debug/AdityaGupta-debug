@@ -3,8 +3,6 @@
 <h1>Hi, I'm Aditya Upendra Gupta 👋</h1>
 <h3>AI Engineer in the making — building deep learning systems from scratch, one tensor at a time.</h3>
 
-<br/>
-
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/aditya-upendra-gupta-3a8816314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
