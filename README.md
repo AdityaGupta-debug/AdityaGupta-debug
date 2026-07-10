@@ -17,7 +17,7 @@
 
 * 🎓 **B.Tech, Artificial Intelligence and Data Science** @ IIIT Raichur (2024–2028)
 * 💻 Passionate about **AI Engineering, Machine Learning, and Deep Learning**
-* 🤖 Building projects with **LLMs, RAG, AI Agents, and Computer Vision**
+* 🤖 Building projects with **LLMs, RAG and Computer Vision**
 * 🛠️ Skilled in **Python, PyTorch, FastAPI, LangChain, Docker, and Vector Databases**
 * 🚀 Seeking **AI Engineering internships** to gain hands-on industry experience
 * 🏆 **1st Place, AIXPO Summit** — ranked #1 among 20+ participating teams
