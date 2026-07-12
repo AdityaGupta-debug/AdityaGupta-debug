@@ -1,133 +1,62 @@
 <div align="center">
 
-<h1>Hi, I'm Aditya Upendra Gupta 👋</h1>
-<h3>AI Engineer in the making — building deep learning systems from scratch, one tensor at a time.</h3>
+# Aditya Upendra Gupta
 
-<br/><br/>
+**AI Engineering Student | Deep Learning & LLM Systems**
 
-<a href="https://www.linkedin.com/in/aditya-upendra-gupta-3a8816314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:adpubu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/AdityaGupta-debug"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-## ⚡ About Me
-
-* 🎓 **B.Tech, Artificial Intelligence and Data Science** @ IIIT Raichur (2024–2028)
-* 💻 Passionate about **AI Engineering, Machine Learning, and Deep Learning**
-* 🤖 Building projects with **LLMs, RAG and Computer Vision**
-* 🛠️ Skilled in **Python, PyTorch, FastAPI, LangChain, Docker, and Vector Databases**
-* 🚀 Seeking **AI Engineering internships** to gain hands-on industry experience
-* 🏆 **1st Place, AIXPO Summit** — ranked #1 among 20+ participating teams
-
-
-<br/>
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,fastapi,git,streamlit,sqlite&theme=dark" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-upendra-gupta-3a8816314/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adpubu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdityaGupta-debug)
 
 </div>
 
-<br/>
+---
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+### About
 
-**🧬 AI / ML / DL**
-- PyTorch · HuggingFace Transformers
-- LangChain · Scikit-learn · XGBoost
-- NumPy · Pandas
+B.Tech student in Artificial Intelligence and Data Science at IIIT Raichur (2024–2028), focused on deep learning, LLM systems, and applied AI engineering. Currently serving as Deep Learning Head at DeepLabs, IIIT Raichur's AI/ML club. Seeking AI engineering internship opportunities.
 
-</td>
-<td valign="top" width="50%">
+**1st Place, AIXPO Summit** — ranked #1 among 20+ teams.
 
-**⚙️ LLM / MLOps / Serving**
-- LoRA / QLoRA Fine-tuning
-- RAG · OpenAI API · Prompt Engineering
-- FastAPI · MLflow · Streamlit
+---
 
-</td>
-</tr>
-</table>
+### Experience
 
-<br/>
+**Deep Learning Head**, DeepLabs (AI/ML Club), IIIT Raichur — *Oct 2024 – Present*
+- Lead technical initiatives and design deep learning curriculum tracks for the club
+- Ran bootcamps on ML fundamentals, backpropagation, and transformer architectures, mentoring 50+ students
 
-## 💼 Experience
+---
 
-> **Deep Learning Head** · AIML Club, DeepLabs, IIIT Raichur · `Oct 2024 – Present`
-> - Appointed Club Lead in second year to spearhead technical initiatives and design deep learning curriculum tracks
-> - Designed and ran intensive bootcamps, mentoring 50+ students in ML mechanics, backpropagation & transformer architectures
+### Featured Projects
 
-<br/>
+**AI Video Assistant (RAG)**
+`Python` `LangChain` `ChromaDB` `Whisper`
+Ingests video/audio content, transcribes with Whisper, and answers questions over transcripts using a RAG pipeline. Deployed with Streamlit.
+[Repository →](https://github.com/AdityaGupta-debug/AI-video-assisstant)
 
-## 🚧 Featured Builds
+**DeepAgro — Smart Agriculture ML**
+`PyTorch` `CNNs` `Scikit-learn` `FastAPI`
+Computer vision and tabular ML pipeline for agriculture: fine-tuned MobileNet for plant disease detection, paired with crop recommendation and fertilizer optimization models, served via FastAPI.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎥 AI Video Assistant (RAG)
-`Python` `LangChain` `ChromaDB` `Whisper` `Sarvam AI`
-
-Ingests YouTube/media, transcribes with **Whisper + Sarvam AI**, summarizes via **LangChain LCEL + Grok**, and answers questions over transcripts using a **ChromaDB** RAG pipeline — deployed on Streamlit.
-
-[**→ View Repo**](https://github.com/AdityaGupta-debug/AI-video-assisstant)
-
-</td>
-<td width="33%" valign="top">
-
-### 🌾 DeepAgro
-`PyTorch` `CNNs` `Scikit-learn`
-
-Computer vision + tabular ML pipeline for smart agriculture. Fine-tuned **MobileNet** for plant disease detection, paired with crop recommendation & fertilizer optimization models, served via **FastAPI**.
-
-</td>
-<td width="33%" valign="top">
-
-### 🗄️ Text-to-SQL (QLoRA)
+**Text-to-SQL (QLoRA Fine-Tuning)**
 `QLoRA` `PEFT` `TRL` `SQLite`
+Fine-tuned an open-source LLM to translate natural language into executable SQL. Includes a Streamlit app for live generation and execution-accuracy evaluation.
 
-Fine-tuned an open-source LLM with **QLoRA + PEFT** to translate natural language into executable SQL, with a Streamlit app for live generation and execution-accuracy evaluation.
+---
 
-</td>
-</tr>
-</table>
+### Technical Skills
 
-<br/>
+**Languages & Frameworks:** Python, C, C++, PyTorch, FastAPI, SQL
+**AI / ML / DL:** HuggingFace Transformers, LangChain, Scikit-learn, XGBoost, NumPy, Pandas
+**LLM & MLOps:** LoRA/QLoRA fine-tuning, RAG, Prompt Engineering, MLflow, Docker, Streamlit
 
-## 🎯 Areas of Interest
-
-<div align="center">
-
-`Large Language Models` `Generative AI` `NLP` `Transformer Architectures` `Deep Learning` `Model Fine-Tuning` `Retrieval-Augmented Generation`
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta-debug&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=AdityaGupta-debug&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta-debug&show_icons=true&theme=default&hide_border=true" height="160"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📫 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/aditya-upendra-gupta-3a8816314/) · [adpubu@gmail.com](mailto:adpubu@gmail.com) · Raichur, India
-
-<img src="https://komarev.com/ghpvc/?username=AdityaGupta-debug&style=flat-square&color=00FF9C" alt="profile views"/>
+**Raichur, India** · [LinkedIn](https://www.linkedin.com/in/aditya-upendra-gupta-3a8816314/) · [adpubu@gmail.com](mailto:adpubu@gmail.com)
 
 </div>
